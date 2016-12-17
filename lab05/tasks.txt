@@ -1,0 +1,7 @@
+Clean the room, description1, INITIAL, 3, 2017-01-03
+Clean the shower, description2, DONE, 3, 2016-12-12
+Clean the fridge, description3, DONE, 3, 2016-12-03
+Clean the pants, description4, IN_PROCESS, 3, 2016-12-03
+Clean the spoon, description5, INITIAL, 3, 2016-12-03
+Clean the office, description6, DONE, 3, 2016-12-03
+Clean the car, description7, IN_PROCESS, 3, 2016-12-03
